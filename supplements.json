@@ -1,0 +1,290 @@
+{
+    "data": [
+        {
+            "product_id": 1,
+            "product_name":"WHEY PROTEIN"
+        },
+        {
+            "product_id": 2,
+            "product_name":"ASHWAGANDHA"
+        }, 
+        {
+            "product_id": 3,
+            "product_name":"CURCUMIN"
+        },
+        {"product_id": 4,
+        "product_name":"ZMA"} , 
+        {"product_id": 5,
+            "product_name":"OMEGA-3"},
+            {
+                "product_id": 6,
+                "product_name":"MULTIVITAMINS"
+            },
+            {
+                "product_id": 7,
+                "product_name":"L-GLUTAMINE"
+            }, 
+            {
+                "product_id": 8,
+                "product_name":"CREATINE"
+            },
+            {"product_id": 9,
+            "product_name":"LCARNITINE"} , 
+            {"product_id": 10,
+                "product_name":"EAAS"},
+                {
+                    "product_id":11,
+                    "product_name":"BCAAS"}, 
+                    {
+                        "product_id": 12,
+                        "product_name":"L-CITRULLINE MALEATE"
+                    },
+                    {
+                        "product_id": 13,
+                        "product_name":"VITAMIN B COMPLEX"
+                    }, 
+                    {
+                        "product_id": 14,
+                        "product_name":"VITAMIN D3"
+                    }
+
+    ],
+    "benefits": {
+        "WHEY PROTEIN": [
+            "Muscle Health and Fitness: Muscle building and growth, Muscle recovery after exercise, Increased strength and endurance",
+            "Weight Management: Appetite control and reduced calorie intake, Promoting lean muscle mass while losing fat, Supporting weight loss goals",
+            "Dietary Deficiencies: Meeting protein requirements, especially for individuals with inadequate protein intake, Supplementing a vegetarian or vegan diet with quality protein",
+            "Blood Sugar Control: Managing blood sugar levels, particularly for those with insulin resistance or type 2 diabetes, Reducing sugar cravings",
+            "Heart Health: Lowering high blood pressure, Improving cholesterol profiles, Supporting overall cardiovascular health",
+            "Immune System Support: Strengthening the immune system, Enhancing the body's ability to fight infections",
+            "Malnutrition or Undernutrition: Replenishing protein and nutrient deficiencies in individuals with malnutrition or undernutrition, Supporting recovery from illnesses or surgeries",
+            "Aging and Sarcopenia: Counteracting age-related muscle loss (sarcopenia), Maintaining muscle strength and function in older adults",
+            "Digestive Issues: Providing easily digestible protein for individuals with digestive problems that hinder the absorption of nutrients from other protein sources",
+            "Wound Healing: Promoting tissue repair and wound healing, especially for patients recovering from surgery or injury",
+            "Stress and Anxiety Management: Supporting mood and reducing stress-related cortisol levels by providing essential amino acids",
+            "Cancer Support: Addressing muscle loss and nutritional deficiencies in cancer patients undergoing treatment"
+        
+    ],
+        "ASHWAGANDHA":[
+            "Stress Management: Reducing stress levels and promoting relaxation, Alleviating symptoms of stress-related disorders",
+            "Anxiety and Mood Disorders: Managing symptoms of generalized anxiety disorder (GAD), Improving mood and reducing symptoms of depression",
+            "Cortisol Regulation: Balancing cortisol levels in individuals with high stress or adrenal fatigue",
+            "Sleep Disorders: Improving sleep quality and addressing insomnia, Promoting a sense of calm before bedtime",
+            "Energy and Vitality: Increasing energy levels and overall vitality, Combating fatigue and low energy due to stress",
+            "Cognitive Function: Enhancing memory and cognitive performance, Supporting overall brain health",
+            "Immune System Support: Boosting the immune system's resilience to stress-related illnesses",
+            "Physical Endurance: Enhancing physical performance and stamina, particularly in athletes",
+            "Hormonal Balance: Supporting hormonal balance in women with menstrual irregularities or menopausal symptoms",
+            "Thyroid Health: Assisting in the regulation of thyroid function, especially in cases of subclinical hypothyroidism",
+            "Inflammation and Pain Management: Reducing inflammation and symptoms of pain, such as arthritis discomfort",
+            "Recovery from Chronic Illness: Aiding recovery and improving overall well-being in individuals with chronic illnesses or autoimmune disorders",
+            "Libido and Sexual Health: Enhancing sexual desire and function, particularly in cases of stress-related sexual dysfunction"
+        ] , 
+        "CURCUMIN" :  [
+            "Inflammatory Conditions: Arthritis (osteoarthritis and rheumatoid arthritis), Inflammatory bowel diseases (such as Crohn's disease and ulcerative colitis), Chronic inflammatory conditions",
+            "Joint Health: Reducing joint pain and stiffness, Supporting joint mobility and flexibility",
+            "Digestive Health: Alleviating symptoms of indigestion and bloating, Supporting overall gastrointestinal health",
+            "Antioxidant Protection: Combating oxidative stress and free radical damage, Reducing the risk of chronic diseases associated with oxidative damage",
+            "Skin Health: Managing skin conditions like psoriasis and eczema, Promoting a healthy complexion and reducing acne",
+            "Brain Health: Supporting cognitive function and memory, Potential protection against neurodegenerative diseases like Alzheimer's disease",
+            "Heart Health: Lowering risk factors for cardiovascular diseases, Supporting healthy cholesterol levels and blood pressure",
+            "Liver Health: Aiding in the detoxification process, Supporting liver function and reducing the risk of liver diseases",
+            "Metabolic Health: Managing blood sugar levels and improving insulin sensitivity, Aiding in weight management and obesity-related issues",
+            "Cancer Prevention and Support: As a potential complementary therapy to reduce cancer risk and support cancer treatment, Research is ongoing in this area.",
+            "Depression and Anxiety: Some studies suggest that curcumin may have mood-enhancing effects and reduce symptoms of depression and anxiety.",
+            "Chronic Pain Management: Helping manage chronic pain conditions, including neuropathic pain"
+        ]
+        ,
+        "ZMA":[
+            "Sleep Quality and Recovery: ZMA is commonly promoted as a supplement to address sleep-related issues, muscle recovery, and overall well-being. It may be used as a remedy for problems in this category, including:",
+            "Insomnia: ZMA is believed to improve sleep quality and help with falling asleep faster, making it potentially beneficial for individuals with insomnia or sleep disturbances.",
+            "Muscle Recovery: The magnesium component of ZMA can aid in muscle relaxation and recovery, making it popular among athletes and active individuals looking to recover from workouts or injuries.",
+            "Reduced Energy Levels: Zinc and vitamin B6 play a role in energy metabolism, and ZMA may help boost energy levels in individuals who are deficient in these nutrients.",
+            "Stress and Anxiety: Zinc and magnesium are involved in regulating stress hormones, and some people use ZMA to help manage stress and anxiety.",
+            "Immune Support: Zinc is known for its role in immune function, so ZMA may be used to support the immune system, especially during periods of illness or increased susceptibility to infections.",
+            "Hormone Regulation: Zinc is involved in the production and regulation of hormones, including testosterone. Some men take ZMA in the hope of improving testosterone levels, although the evidence for this is mixed."
+        ],
+        "OMEGA-3" : 
+        [
+            "Heart Health: Omega-3 fatty acids are associated with various cardiovascular benefits, including:",
+            "Reducing Triglycerides: Omega-3s can lower elevated triglyceride levels, which is important for heart health.",
+            "Lowering Blood Pressure: They may help lower blood pressure, reducing the risk of hypertension and related complications.",
+            "Reducing Inflammation: Omega-3s have anti-inflammatory properties that can benefit heart health.",
+            "Improving Cholesterol Profile: They can raise HDL (good) cholesterol and improve the overall cholesterol profile.",
+            "Brain Health: Omega-3s are essential for brain development and function, and they may benefit the following areas:",
+            "Cognitive Function: Omega-3s are linked to improved cognitive function and a reduced risk of cognitive decline in older adults.",
+            "Mood Disorders: Some studies suggest that omega-3s can help reduce symptoms of depression and anxiety.",
+            "Neurological Disorders: They may have a protective effect against neurodegenerative diseases like Alzheimer's and Parkinson's disease.",
+            "Eye Health: Omega-3s, particularly DHA, are important for eye health and may reduce the risk of age-related macular degeneration.",
+            "Joint Health: Omega-3s can help reduce joint pain and inflammation, making them useful for individuals with conditions like arthritis.",
+            "Inflammatory Conditions: They are used to manage various inflammatory conditions, including rheumatoid arthritis and psoriasis.",
+            "Pregnancy and Infant Development: Omega-3s are crucial during pregnancy for fetal brain and eye development, and they are often recommended for pregnant women.",
+            "Inflammatory Bowel Diseases: Omega-3s may reduce inflammation and symptoms in conditions like Crohn's disease and ulcerative colitis."
+        ] ,
+        "MULTIVITAMINS":
+        [
+            "Nutritional Deficiencies and General Health Support: Multivitamins can help address a wide range of issues related to nutrient deficiencies and overall health maintenance. These problems may include:",
+            "Micronutrient Deficiencies: Multivitamins can provide essential vitamins and minerals that may be lacking in the diet, especially for individuals with imbalanced or restrictive diets.",
+            "Suboptimal Nutrient Intake: People with dietary restrictions, such as vegetarians or vegans, may benefit from multivitamins to ensure they receive adequate levels of certain nutrients like vitamin B12 and iron.",
+            "Age-Related Nutrient Needs: Aging individuals may have changing nutrient requirements, and multivitamins can help meet these changing needs, particularly for calcium and vitamin D for bone health.",
+            "Pregnancy and Lactation: Pregnant and lactating women often require additional nutrients, and multivitamins formulated for this purpose can help ensure both mother and baby receive the necessary vitamins and minerals.",
+            "Reduced Appetite or Limited Food Choices: People with reduced appetite, certain medical conditions, or those recovering from surgery may have difficulty consuming a variety of foods, making multivitamins a valuable supplement.",
+            "Stress and Busy Lifestyles: Stress and a busy lifestyle can deplete certain nutrients like B vitamins and vitamin C, making multivitamins a convenient way to support overall health during challenging times.",
+            "Immune System Support: Multivitamins containing immune-supporting vitamins and minerals, such as vitamin C, vitamin D, and zinc, can help strengthen the immune system.",
+            "Eye Health: Some multivitamins include nutrients like lutein and zeaxanthin, which can promote eye health and reduce the risk of age-related macular degeneration.",
+            "Hair, Skin, and Nail Health: Multivitamins often contain biotin and other nutrients that support the health and appearance of hair, skin, and nails.",
+            "Chronic Illness or Medication Interactions: Certain medical conditions or medications may interfere with nutrient absorption or increase nutrient requirements, and multivitamins can help fill these gaps."
+        ] ,
+        "L-GLUTAMINE":[
+            "Gut Health and Digestive Disorders: L-glutamine can be used to address a range of digestive issues and promote gut health, including:",
+            "Leaky Gut Syndrome: L-glutamine is thought to help repair the lining of the intestines and reduce intestinal permeability, potentially alleviating symptoms associated with leaky gut.",
+            "Irritable Bowel Syndrome (IBS): Some individuals with IBS may experience relief from symptoms like abdominal pain, bloating, and irregular bowel movements when supplementing with L-glutamine.",
+            "Inflammatory Bowel Diseases (IBD): L-glutamine may assist in reducing inflammation in the digestive tract and supporting the healing of damaged tissues in conditions such as Crohn's disease and ulcerative colitis.",
+            "Gastric Ulcers: It can promote the healing of gastric ulcers by protecting the stomach lining and aiding in tissue repair.",
+            "Food Allergies and Sensitivities: L-glutamine might help alleviate symptoms associated with food allergies and intolerances by improving gut barrier function.",
+            "Chemotherapy-Induced Gastrointestinal Side Effects: It can be used to manage diarrhea and other gastrointestinal side effects experienced by cancer patients undergoing chemotherapy.",
+            "Postoperative Recovery: L-glutamine supplements may help enhance postoperative recovery by supporting tissue repair and reducing complications following surgery.",
+            "Athlete's Gut Issues: Endurance athletes may experience gut issues during intense training or competition. L-glutamine may help improve gut integrity and alleviate exercise-induced gastrointestinal distress."
+        ] ,
+        "CREATINE":[
+            "Enhancing Physical Performance and Muscle Health:",
+            "Improved Exercise Performance: Creatine is widely used by athletes and fitness enthusiasts to enhance their performance in high-intensity, short-duration activities, such as weightlifting, sprinting, and jumping. It can lead to increased strength, power, and overall exercise capacity.",
+            "Muscle Growth and Hypertrophy: Creatine can support muscle growth by increasing the water content within muscle cells, which may contribute to a temporary increase in muscle size. It also helps stimulate muscle protein synthesis, which is essential for muscle repair and growth.",
+            "Reducing Muscle Fatigue: Creatine supplementation may help reduce perceived fatigue during intense workouts by providing an extra source of rapidly available energy (phosphocreatine) for muscle contractions.",
+            "Aging and Sarcopenia: Creatine supplementation can help combat age-related muscle loss (sarcopenia) and maintain muscle mass and strength in older adults.",
+            "Neuromuscular and Neurological Disorders: Some research suggests that creatine may have potential benefits for individuals with neuromuscular disorders, such as muscular dystrophy, and certain neurological conditions, like Parkinson's disease.",
+            "Recovery and Injury Rehabilitation: Creatine may aid in post-exercise recovery and rehabilitation from muscle injuries by supporting muscle repair processes.",
+            "Vegetarian or Vegan Diets: Vegetarians and vegans may benefit from creatine supplementation since dietary creatine primarily comes from animal sources. Creatine supplements can help maintain optimal creatine levels in individuals following plant-based diets."
+        ]
+    ,
+    "L-CARNITINE": [
+        "Metabolic Disorders:",
+        "Inborn errors of metabolism that affect fatty acid oxidation, such as carnitine deficiency disorders",
+        "Mitochondrial disorders that impact energy production",
+        "Cardiovascular Health:",
+        "Supporting heart health by improving the utilization of fatty acids for energy, potentially reducing the risk of heart disease",
+        "Managing high cholesterol and triglyceride levels",
+        "Physical Performance and Exercise:",
+        "Enhancing endurance and exercise performance by helping to transport fatty acids into muscle cells for energy production",
+        "Reducing muscle fatigue during high-intensity workouts",
+        "Weight Management:",
+        "Aiding in fat loss by facilitating the conversion of fatty acids into energy",
+        "Promoting a healthy body composition",
+        "Neurological Conditions:",
+        "Managing certain neurological disorders where mitochondrial dysfunction is a factor, such as Alzheimer's disease and Parkinson's disease",
+        "Providing support for individuals with peripheral neuropathy",
+        "Liver Health:",
+        "Improving liver function in conditions like non-alcoholic fatty liver disease (NAFLD)",
+        "Assisting in the treatment of hepatic encephalopathy, a complication of liver disease",
+        "Reproductive Health:",
+        "Addressing male infertility by improving sperm quality and motility",
+        "Supporting female reproductive health in cases of polycystic ovary syndrome (PCOS)",
+        "Kidney Health:",
+        "Managing kidney disease-related complications, including muscle weakness and fatigue",
+        "Aging and Age-Related Decline:",
+        "Mitigating age-related decline in mitochondrial function and energy metabolism",
+        "Enhancing overall vitality in older adults",
+        "Fatigue and Chronic Fatigue Syndrome (CFS):",
+        "Alleviating symptoms of fatigue and low energy by improving mitochondrial function"
+    ]
+,
+"EAAS" : [
+    "Protein and Amino Acid Deficiencies:",
+    "Malnutrition or Undernutrition: EAAs can help address protein and amino acid deficiencies in individuals with inadequate nutrient intake, often due to poverty, food insecurity, or restricted diets.",
+    "Vegetarian or Vegan Diets: EAAs can supplement plant-based diets that may lack certain essential amino acids found more abundantly in animal products.",
+    "Aging and Muscle Loss (Sarcopenia): As people age, they may experience muscle loss, and supplementing with EAAs can help support muscle maintenance and function.",
+    "Chronic Illness: Some chronic illnesses can lead to protein and amino acid deficiencies due to decreased appetite or malabsorption, and EAAs can assist in providing the necessary nutrients.",
+    "Recovery from Surgery or Injury: After surgery or injury, the body may require extra amino acids for wound healing and tissue repair."
+] ,
+"BCAAS":[
+    "Muscle Recovery and Exercise Performance:",
+    "Reducing muscle soreness and fatigue after intense workouts",
+    "Enhancing exercise performance and endurance",
+    "Supporting faster recovery between training sessions",
+    "Muscle Preservation during Caloric Restriction:",
+    "Minimizing muscle loss while on a calorie-restricted diet, such as during weight loss or cutting phases",
+    "Promoting the preservation of lean muscle mass",
+    "Fatigue and Endurance:",
+    "Reducing mental and physical fatigue during long-duration activities, such as endurance sports and marathons",
+    "Providing a quick energy source for muscles during extended exercise",
+    "Muscle Loss Prevention:",
+    "Helping to prevent muscle breakdown during periods of inactivity or immobilization, such as after surgery or injury",
+    "Supporting muscle maintenance in older adults to prevent age-related muscle loss (sarcopenia)",
+    "Post-Surgery or Injury Recovery:",
+    "Aiding in the recovery and healing process by providing essential amino acids for tissue repair",
+    "Supporting rehabilitation efforts",
+    "Mood and Mental Health:",
+    "Some studies suggest that BCAAs, particularly leucine, may have a positive impact on mood and mental health by influencing neurotransmitter synthesis in the brain.",
+    "Liver Health:",
+    "BCAAs can be beneficial for individuals with liver cirrhosis by reducing ammonia levels in the blood, which can alleviate symptoms associated with liver disease."
+],
+"L-CITRULLINE MALEATE":[
+    "Nitric Oxide Production and Cardiovascular Health:",
+    "L-Citrulline malate is known for its role in promoting the production of nitric oxide (NO) in the body. Nitric oxide helps to relax blood vessels, improve blood flow, and increase circulation.",
+    "It may help lower high blood pressure or improve blood pressure regulation.",
+    "It can enhance cardiovascular health by supporting better blood vessel function.",
+    "It might benefit individuals with conditions related to poor circulation.",
+    "L-Citrulline malate is often used by athletes and fitness enthusiasts as a performance-enhancing supplement due to its potential to improve blood flow, which can lead to increased endurance and reduced fatigue during exercise. Additionally, it may be considered for individuals with certain cardiovascular issues."
+],
+"VITAMIN B COMPLEX":[
+    "Category: Vitamin B Deficiencies and Related Issues",
+    "Energy and Fatigue:",
+    "Addressing feelings of fatigue, weakness, and low energy levels, as B vitamins are essential for converting food into energy (metabolism).",
+    "Combating fatigue associated with conditions like chronic fatigue syndrome.",
+    "Mood and Mental Health:",
+    "Managing mood disorders, such as depression and anxiety, as B vitamins are involved in the production of neurotransmitters like serotonin and dopamine.",
+    "Reducing symptoms of stress and supporting overall mental well-being.",
+    "Neurological Health:",
+    "Treating or preventing neurological issues such as neuropathy (nerve damage) and peripheral neuropathy.",
+    "Managing symptoms of conditions like Alzheimer's disease and multiple sclerosis.",
+    "Cardiovascular Health:",
+    "Lowering the risk of heart disease by helping to control homocysteine levels, which are associated with cardiovascular problems.",
+    "Supporting overall heart health by regulating cholesterol levels.",
+    "Skin and Hair Health:",
+    "Improving skin conditions like dermatitis, eczema, and acne.",
+    "Enhancing the strength and appearance of hair and nails.",
+    "Digestive Health:",
+    "Managing symptoms of irritable bowel syndrome (IBS) and inflammatory bowel disease (IBD).",
+    "Supporting a healthy gut by aiding in the production of digestive enzymes.",
+    "Anemia:",
+    "Treating certain types of anemia, such as megaloblastic anemia, caused by a deficiency of vitamin B12 or folate.",
+    "Pregnancy and Infant Health:",
+    "Reducing the risk of birth defects by ensuring adequate levels of folate (B9) during pregnancy.",
+    "Supporting the overall health of expectant mothers and their developing babies.",
+    "Eye Health:",
+    "Slowing the progression of age-related macular degeneration (AMD) and promoting eye health.",
+    "Reducing the risk of cataracts.",
+    "Athletic Performance:",
+    "Enhancing athletic performance and endurance by aiding in the metabolism of carbohydrates, fats, and proteins.",
+    "Supporting muscle recovery after strenuous exercise.",
+    "Alcohol Abuse and Recovery:",
+    "Addressing nutrient deficiencies in individuals with alcohol use disorders, as alcohol can deplete B vitamins.",
+    "Cognitive Function:",
+    "Supporting memory, concentration, and cognitive function, particularly in older adults."
+]
+,
+"VITAMIN D3":[
+    "Vitamin D Deficiency-Related Problems:",
+    "Bone Health and Osteoporosis Prevention:",
+    "Vitamin D3 plays a crucial role in calcium absorption and bone mineralization, making it vital for maintaining strong and healthy bones. A deficiency can lead to conditions like osteoporosis and osteopenia.",
+    "Rickets (in Children):",
+    "Vitamin D deficiency in children can result in rickets, a condition characterized by weakened and deformed bones.",
+    "Muscle Weakness and Pain:",
+    "Inadequate vitamin D levels can contribute to muscle weakness, pain, and a higher risk of falls and fractures in the elderly.",
+    "Immune System Function:",
+    "Vitamin D3 is involved in regulating immune system responses and can help reduce the risk of infections and autoimmune diseases.",
+    "Mood Disorders:",
+    "Some research suggests that vitamin D may play a role in mood regulation, and deficiency has been linked to an increased risk of depression and seasonal affective disorder (SAD).",
+    "Chronic Diseases:",
+    "Vitamin D deficiency has been associated with an increased risk of various chronic diseases, including cardiovascular disease, diabetes, and certain cancers.",
+    "Autoimmune Conditions:",
+    "Vitamin D may help modulate immune responses and could be beneficial for individuals with autoimmune conditions such as multiple sclerosis and rheumatoid arthritis.",
+    "Aging and Cognitive Health:",
+    "There is ongoing research into the potential role of vitamin D in maintaining cognitive function and reducing the risk of cognitive decline in older adults.",
+    "Pregnancy and Infant Health:",
+    "Adequate vitamin D levels are essential during pregnancy for the development of the baby's bones and overall health.",
+    "Respiratory Health:",
+    "Some studies suggest that vitamin D may support respiratory health and reduce the risk of respiratory infections."
+]
+    }
+}
