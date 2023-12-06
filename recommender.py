@@ -30,7 +30,7 @@ user_profile = {
 
 
 # Load product data from the JSON file (without user_profile)
-with open(r"C:\Users\Khushi Pandey\Desktop\numpy\supplements.json", 'r') as json_file:
+with open(r"supplements.json", 'r') as json_file:
     data = json.load(json_file)
 
 # Extract product data and benefits
